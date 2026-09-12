@@ -36,3 +36,7 @@ Product names, prices, ratings, reviews and merchandising content may be demonst
 
 ## V4 Image Presentation
 The featured catalog and product detail pages now use clean, standalone jewelry photography from a dedicated product grid. Embedded page text, badges, buttons, ratings and neighboring panels are excluded from product images.
+
+
+## V5 Hero Fix
+The homepage hero now uses a dedicated, text-free local editorial photograph. No navigation labels, duplicated headlines, buttons, ratings, or other page UI are embedded inside the hero image.
