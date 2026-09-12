@@ -2,20 +2,20 @@
 
 **Made to Be Remembered.**
 
-An editorial, atelier-inspired jewelry storefront with a distinctive asymmetric layout, wine/ivory/gold palette, local product photography, and a curated shopping experience.
+A cinematic luxury jewelry storefront with a high-contrast black, cream, and champagne-gold identity.
 
 ## Highlights
-- 88 products across 12 categories
+- 91 products across 12 categories
 - Watches, chains, necklaces, pendants, rings, bracelets, earrings, hoops, anklets, cufflinks, gift sets and accessories
-- Editorial / atelier-style homepage
-- Asymmetric split hero and vertical brand rail
-- Curated collection sections instead of circular category tiles
+- Cinematic split hero and editorial storytelling
+- Curated House Edit
+- Featured collection with local product photography
 - Search, filters and sorting
 - Product detail pages
 - Wishlist and shopping bag demo
 - Dedicated customer support
-- Responsive desktop and mobile layouts
-- Local image assets bundled inside the project
+- Responsive desktop and mobile design
+- Local images bundled inside the project
 - GitHub Pages ready
 
 ## Support
@@ -31,4 +31,4 @@ https://richiepearl-uk.github.io/aurelia-jewels/
 Settings → Pages → Deploy from a branch → main → / (root)
 
 ## Notes
-Product names, prices, ratings, reviews and merchandising content may be demonstration content. Verify actual product specifications, policies, warranties and third-party asset rights before commercial publication.
+Product names, prices, ratings, reviews and merchandising content may be demonstration content. Verify actual product specifications, warranties, policies and third-party asset rights before commercial publication.
