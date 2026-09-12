@@ -32,3 +32,7 @@ Settings → Pages → Deploy from a branch → main → / (root)
 
 ## Notes
 Product names, prices, ratings, reviews and merchandising content may be demonstration content. Verify actual product specifications, warranties, policies and third-party asset rights before commercial publication.
+
+
+## V4 Image Presentation
+The featured catalog and product detail pages now use clean, standalone jewelry photography from a dedicated product grid. Embedded page text, badges, buttons, ratings and neighboring panels are excluded from product images.
