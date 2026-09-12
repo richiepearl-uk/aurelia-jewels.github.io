@@ -1,0 +1,9 @@
+{
+  "name": "AUR\u00c9LIA Jewels",
+  "short_name": "AUR\u00c9LIA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#080808",
+  "background_color": "#f5efe3",
+  "icons": []
+}
